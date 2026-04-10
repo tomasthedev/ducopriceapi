@@ -24,3 +24,9 @@ The API can be down for few minutes due to my network instability. But not for l
 The specific currency can be requested via header. More specifications are included in the https://api.itzzztomas.xyz/api/  api documentation by swagger.
 
 I also have included some error handling. The api will return a `success` header with `false` or `true` value with additional error message if the request failed.
+
+## Code availability
+I will be publishing the code when the API code would be more mature
+
+The API is coded in node.js with express
+> I think the node.js is very lightweight and faster than flask or different python API implementions while being easy to develop and maintain
