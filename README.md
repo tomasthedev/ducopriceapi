@@ -3,7 +3,7 @@ Duino Coin API for getting price of the duinocoin in different currencies
 The API documentation is avaiable at: https://api.itzzztomas.xyz/api/ 
 Use `https://api.itzzztomas.xyz` for any api request
 
-**Please note that the swagger documentation was not yet propperly configures, so it shows the server as a localhost. Any tryout feature of swagger is going to fail. Use postman or any appropriate software for testing the API. The `https://api.itzzztomas.xyz` should be used. Sorry for any inconvience**
+**The API uses Euro (EUR) as it's base currency. Evvery rate returned by API is relative rate to Euro (EUR)**
 
 ## How it works?
 By using currencyratesapi.com it converts the duco price to the targeted currency. 
