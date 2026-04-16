@@ -1,3 +1,5 @@
+# Migrated to https://codeberg.org/tomasthedev/advancedducoapi
+
 Duino Coin API for getting price of the duinocoin in different currencies
 
 The API documentation is avaiable at: https://api.itzzztomas.xyz/api/ 
